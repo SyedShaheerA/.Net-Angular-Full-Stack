@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahe\\source\\repos\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\salespersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\salespersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|c:\\users\\shahe\\source\\repos\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD12D25-8767-4216-9D12-C2FEFE0FBA0E}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAD4v0wAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:20:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salesperson.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Salesperson.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Salesperson.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Salesperson.cs",
+              "RelativeToolTip": "WebApp\\Models\\Salesperson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:02:41.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CityController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:49:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:14:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalespersonController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\SalespersonController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\SalespersonController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\SalespersonController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\SalespersonController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:07:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApp\\Models\\Customer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:00:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:02:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:27:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:42:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:42:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Country.cs",
+              "RelativeToolTip": "WebApp\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:55:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\City.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\City.cs",
+              "RelativeToolTip": "WebApp\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:56:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Branch.cs",
+              "RelativeToolTip": "WebApp\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T20:58:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:32:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Models\\Department.cs",
+              "RelativeToolTip": "WebApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:28:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApp",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T19:13:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T10:36:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shahe\\source\\repos\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:22:26.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

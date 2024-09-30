@@ -115,7 +115,7 @@ namespace WebApp.Controllers
         public JsonResult GetAllDepartmentName()
         {
             String query = @"
-            select  Department from dbo.Department";
+            select  DepartmentName from dbo.Department";
             DataTable table = new DataTable();
             string sqlDataSource = _configuration.GetConnectionString("EmployeeAppCon");
             SqlDataReader myReader;
