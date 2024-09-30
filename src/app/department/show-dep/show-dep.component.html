@@ -1,0 +1,29 @@
+
+<button (click)="addClick()" class="float-right"  >check</button>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+               DepartmentId 
+            </th>
+            <th>
+                DepartmentName
+            </th>
+            <th>
+                Options
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataitem of DepartmentList">
+            <td>{{dataitem.DepartmentId}}</td>
+            <td>{{dataitem.DepartmentName}}</td>
+            <td>
+                <button type="button" class="btn btn-light">Edit</button>
+                
+                <button type="button" (click)="deleteClick(dataitem)" value="" class="btn btn-light">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

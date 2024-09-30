@@ -1,0 +1,87 @@
+
+<button (click)="addClick()" class="float-right"  >Add Customer</button>
+
+<div class="form row">
+    <div col-sm-4 >
+        <input type="text" [(ngModel)]="Search1" placeholder="search" (change)="search()">
+    </div>
+    <div col-sm-4>
+        <select class="form-control"  [(ngModel)]="SalespersonPersonID" (change)="filterSalesPerson()">
+            <option value="" disabled selected>Filter Salesperson</option> 
+            <option *ngFor="let item of SalesPersonList" [value]="item.SalespersonId">{{ item.SalespersonName }}</option>
+        </select>
+    </div>
+    <div col-sm-4>
+        <select class="form-control"  [(ngModel)]="StatusDropDown" (change)="filterStatus()">
+            <option value="" disabled selected>Filter Status</option> 
+            <option [value]="1">Active</option>
+            <option [value]="0">InActive</option>
+        </select>
+    </div>
+    <div col-sm-3 ml-1>
+        <button (click)="refreshDepList()">Clear</button>
+    </div>
+    <div col-sm-3 ml-1>
+        <button (click)="filter()">Filter</button>
+    </div>
+    
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+               ID Number 
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Arabic Name
+            </th>
+            <th>
+                Tax Registeration Number
+            </th>
+            <th>
+                CR Number
+            </th>
+            <th>
+                Primary Contact
+            </th>
+            <th>
+                Mobile
+            </th>
+            <th>
+                Salesperson
+            </th>
+            <th>
+                Status
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let customerList of CustomerList">
+            <td>{{customerList.CustomerID}}</td>
+            <td>{{customerList.CustomerName}}</td>
+            <td>{{customerList.ArabicName}}</td>
+            <td>{{customerList.TaxRegistrationNumber}}</td>
+            <td>{{customerList.CRNumber}}</td>
+            <td>{{customerList.PrimaryContact}}</td>
+            <td>{{customerList.MobileNumber}}</td>
+            <td>{{getSalespersonName(customerList.SalespersonID)}}</td>
+            <td >
+                <span *ngIf="customerList.Statuss == 1; else InActive">Active</span>
+                <ng-template #InActive>
+                    <span>Inactive</span>
+                </ng-template>
+            </td>
+            <td>
+                <button (click)="updateCustomer(customerList.CustomerID)" class="btn btn-primary"  >Update</button>
+                <button (click)="DeleteCustomer(customerList.CustomerID)" class="btn btn-alert"  >Delete</button>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
